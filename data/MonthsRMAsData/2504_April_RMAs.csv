@@ -1,0 +1,123 @@
+RMA No.,Name,Email Address,Status,Product Code,Description,Quantity,Date Code,Reason For Returning,Detailed Problem Description,Warranty Status,Warranty Status Remarks,Findings,Findings Remarks,Resolution,Resolution Remarks,Transfer to Warehouse
+2504001,A1 SECURITY SUPPLY,WILL@A1ALARM.COM,Completed,SD-998C-D3AQ,"1/2"""""""" Surface-Mount RIM Strike",1,,Defective,BOTTOM LATCH WONT RELEASE,UNDER WARRANTY,08A23,Defective,right latch doesn't work,Replace,,W92
+2504002,ISEC-INTERNATIONAL SECURITY EXPERT,ifigueroa@isecpr.com,Completed,E-941SA-1K2PQ,"1,200lb Maglock with Bond Sensor & LED",2,,Defective,Don't power on.,UNDER WARRANTY,02A23,Defective,"MOV burnt. Installer error. Can be repaired by replacing board
+Both MOV burnt. Installer error. Can be reparied by replacing board",Repair,"installer error improper installation, will be repaired and returned.",
+2504003,ISTC,nbezerra@istccorp.com,Issued RMA,E-941S300R/UQ,"300lb Maglock, Indoor/Outdoor",2,,"New, do not need",Canceled back order,,,,,,,
+2504003,ISTC,nbezerra@istccorp.com,Issued RMA,E-941S300R/UQ,"U"""""""" """"""""L"""""""" and """"""""Z"""""""" Brackets for E-941SA-300RQ",28,,"New, do not need",Canceled back order,,,,,,,
+2504003,ISTC,nbezerra@istccorp.com,Issued RMA,E-941S300R/LQ,"L"""""""" Bracket for E-941SA-300RQ",12,,"New, do not need",Canceled back order,,,,,,,
+2504003,ISTC,nbezerra@istccorp.com,Issued RMA,E-941S300R/ZQ,"L"""""""" and """"""""Z"""""""" Brackets for E-941SA-300RQ",13,,"New, do not need",Canceled back order,,,,,,,
+2504004,Southwest Automated Security- CHA,cha-ship@southwestautomated.com,Completed,SK-B941-PQ,Bluetooth Goose-Neck Keypad with Reader,1,,Defective,Advanced replacement,UNDER WARRANTY,01A24,Defective,Board turns on but keypad board does not turn on,Issue Credit,,W92
+2504005,Quick key Locksmith,storequickkey@gmail.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,10A22,Defective,Device will no longer respond to power,OUT OF WARRANTY,10A22,Defective,Wont power on,Replace,,W92
+2504006,Canal Alarm Devices,fahad.k@canalalarm.com,Completed,E-942FC-1300,1200LB MAGNETIC GATE LOCK,1,,Defective,Damaged wire out of the box,UNDER WARRANTY,06A24,Defective,Wire is damaged near the maglock; green and white coil reads 1.06 oHms,Replace,,W92
+2504007,Sergey Yakubov,seryak56@gmail.com,Completed,SK-910RD3,"3-channel RF Receiver, 315/433.92 MHz",1,,Defective,"From four transmitters pair only one transmitter. Transaction ID
+88617519RR064301L	Transaction date
+Mar 27, 2025
+Merchant
+Affordable Openers
+customerservice@affo...
++1 888-444-8123	Shipping address
+Sergey Yakubov
+7031 Texhoma Ave
+Lake Balboa, CA 91406
+United States
+Invoice ID
+000152557
+Track Package
+
+Seco-Larm SK-910RD3...
+Qty: 1	$49.00
+2
+Qty: 1	$0.00
+Subtotal	$49.00
+Shipping and handling	$15.32
+Tax	$6.11
+Total	$70.43 USD",UNDER WARRANTY,08A23,Tested to be working,All 3 relay works; ask for details,Replace,Ask for more details. Product worked fine however it will be replaced.,W90
+2504008,IML Security Supply,kyra.fankhauser@imlss.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,"Will not program, CASE #2503043. May we return for credit?",UNDER WARRANTY,04A24,Tested to be working,"Does not turn on. Draws 0 current; capacitor burnt. Most likely installer error
+not rated for ac power. If dc is applied, it is probably due to over voltage.",Replace,Installer error future will be returned.,W92
+2504009,Wesco Anixter Puerto Rico,ameliadistributioncenter@seco-larm.com,Completed,E-941SA-600PQ,600lb Maglock with Bond Sensor & LED,30,,Damaged On Shipping,Water damage when arrived,UNDER WARRANTY,,Tested to be working,Tested 6 units from 3 different boxes and they were working.,Issue Credit,,W94
+2504009,Wesco Anixter Puerto Rico,ameliadistributioncenter@seco-larm.com,Completed,SD-9163-KSVQ,"Outdoor No Touch Sensor, Slimline, English, Override",15,,Damaged On Shipping,water damage on shipping,UNDER WARRANTY,,New unit(s),Tested to be working,Issue Credit,,W94
+2504009,Wesco Anixter Puerto Rico,ameliadistributioncenter@seco-larm.com,Completed,SD-927PKC-NEQ,"Indoor No-Touch Sensor with Timer, English",27,,Damaged On Shipping,water damage on shipping,UNDER WARRANTY,,New unit(s),Tested to be working,Issue Credit,,W94
+2504009,Wesco Anixter Puerto Rico,ameliadistributioncenter@seco-larm.com,Completed,SD-9163-KSQ,"Outdoor No Touch Sensor, Slimline, English",10,,Damaged On Shipping,water damage,UNDER WARRANTY,,New unit(s),Tested to be working just need new giftboxes,Issue Credit,,W94
+2504010,Cosesa in Guatemala,marjorie.h@cosesa.com.gt,Issued RMA,SD-C131-SQ,"Door Closer, ANSI Size 3.",1,,Defective,Defective unit,,,,,,,
+2504011,BROOKLYN SUPPLY,raizy@blvs.com,Completed,E-941S-1K2/HP,"1/4"" Header Plate for 1,200-lb Series Electromagnetic Locks",15,,"New, do not need",New Return; Customer Cancelled,UNDER WARRANTY,,New unit(s),,Issue Credit,,W01
+2504011,BROOKLYN SUPPLY,raizy@blvs.com,Completed,E-941S-1K2/PQ,"1/4"" Plate Spacer for 1,200-lb Series Electromagnetic Locks",15,,"New, do not need","New Return, Customer Cancelled",UNDER WARRANTY,,New unit(s),,Issue Credit,,W01
+2504011,BROOKLYN SUPPLY,raizy@blvs.com,Completed,E-941S-1K2/F53Q,"5/8"""" Filler Plate for Electromagnetic Locks",14,,"New, do not need","New Return, Customer Cancelled",UNDER WARRANTY,,New unit(s),,Issue Credit,,W01
+2504011,BROOKLYN SUPPLY,raizy@blvs.com,Completed,E-941S-600/PQ,"3/16"""" Plate Spacer for 600-lb Series Electromagnetic Locks",15,,Missing Parts,"New Return, Customer Cancelled",UNDER WARRANTY,,New unit(s),,Issue Credit,,W01
+2504012,"CC Sandulli Technology Contractor, LLC",ccsandulli@msn.com,Completed,SK-1123-SPQ,"Outdoor Keypad with Proximity Reader, 2 outputs, 12~24 VAC/VDC, 1100 users.",1,,Defective,"Item was installed approximately 5 months ago and has worked well. User called and reported that the keypad indicated open/Green, but their gate did not open",UNDER WARRANTY,03A24,Defective,Relay 1 does not work. No continuity.,Replace,w90,W92
+2504013,Safeguard Security and Surveillance,jeff@safeguardne.com,Completed,DP-264-1C7Q,Video Door Phone Kit,1,,Defective,When power is applied monitor keeps ringing.,OUT OF WARRANTY,12A22,Defective,"camera doesnt power on.
+
+monitor works sporadically",Replace,,W92
+2504014,Metro Access Control LLC,john@metroaccesscontrol.com,Issued RMA,SA-027HQ,"ANNUAL TIMER, 2 CH, TOGGLE, CASE, REMOVABLE TERMINALS",2,09A24,Defective,THIS TIMER SN 01402378  WOULD NOT WORK ON SCHEDUAL,,,,,,,
+2504014,Metro Access Control LLC,john@metroaccesscontrol.com,Issued RMA,SA-027HQ,"ANNUAL TIMER, 2 CH, TOGGLE, CASE, REMOVABLE TERMINALS",1,MW041,Defective,WOULD NOT RELEASE OFF TEST,,,,,,,
+2504015,Graybar,corey.stene@graybar.com,Completed,SD-995C-D3Q,No-Cut Electric Door Strike,1,4/4/2025,"New, do not need",customer did not need,UNDER WARRANTY,,Tested to be working,,Issue Credit,,W01
+2504016,Security Equipment Supply,CReiber@sesonline.com,Completed,SM-4201-L3Q,"Track-Mount Overhead Door Magnetic Contact, SPDT",40,0A422,"New, do not need",Requesting credit,OUT OF WARRANTY,04A22,New unit(s),New units x40,Issue Credit,We will be issuing credit for this RMA.,W01
+2504017,Andiamo Services LLC,jchamberlain@andiamoservicesllc.com,Issued RMA,SK-1323-SPQ,VANDAL KEYPAD WITH PROX,1,?,Defective,"Worked all morning and just completely stopped around 1:00pm. No lights, key activity.",,,,,,,
+2504018,"Green Mountain Security E/C, LLC",keith@greenmtnsecurity.com,Completed,SK-B111-PQ,"Bluetooth Single-Gang Keypad with Reader, Indoor",3,,Defective,# button sticking. This is the second set of three keypads we have sent in all having the same issues.,OUT OF WARRANTY,"10A22
+10A22",Defective,"buttons 4,5, and 6 defective 
+Keypad keys did not work when powered up, however after factory resetting, keypad works fine v.2.29
+Keypad keys did not work when powered up, however after factory resetting, keypad works fine v.2.28",Replace,replace 1 and send back the other 2,W92
+2504019,UHS Hardware,amanda@uhs-hardware.com,Completed,SA-027HQ,"ANNUAL TIMER, 2 CH, TOGGLE, CASE, REMOVABLE TERMINALS",1,01266324,Defective,Not powering on. Just purchased 4/7/2025 .,UNDER WARRANTY,04A20,Tested to be working,Turns on; works.,Return,Tested to be working and will be returned,W90
+2504020,IML Security Supply,kyra.fankhauser@imlss.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,"Needs to be reset every couple of weeks
+May we return for credit?",UNDER WARRANTY,09A24,Tested to be working,unit works,Issue Credit,,W90
+2504021,ELITE SECURITY SUPPLY LLC,avo@elitesecuritysupply.com,Completed,E-941D-600/PQ,"3/16"""""""" Plate Spacer for 600lb Double-Door Maglocks",3,3/31/25,"New, do not need",customer canceled,UNDER WARRANTY,15% Restock fee,New unit(s),Units are new,Issue Credit,,W01
+2504022,Security Equipment Supply,mlachapelle@sesonline.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,won't communicate,OUT OF WARRANTY,07A23,Defective,"Unit started smoking up and drawing 9amps at 12VDC
+Customer said it randomly stopped working; possible reasons might be power surge. No diode installed. 
+Ask for details",Return,Due to installer error unit will be sent back.,W92
+2504023,BROOKLYN SUPPLY,raizy@blvs.com,Issued RMA,E-941S-1K2/HQ,"Armature Holder for E-941SA-1200, E-941SA-1K2PQ, E-941SA-1K2PD, E-941SA-1K2DPSQ",15,,"New, do not need",CORRECT MODEL #: E-941S-1K2/HP,,,,,,,
+2504023,BROOKLYN SUPPLY,raizy@blvs.com,Issued RMA,E-941S-1K2/AP,"Armature Plate for all SECO-LARM 1,200lb Maglocks (indoor & outdoor)",15,,"New, do not need",CORRET MODEL #: E-941S-1K2/PQ,,,,,,,
+2504023,BROOKLYN SUPPLY,raizy@blvs.com,Issued RMA,E-941S-1K2/MT,"Mounting Template for E-941SA-1200, E-941SA-1K2PQ, E-941SA-1K2PD, E-941SA-1K2DPSQ, E-941DB-1200, E-9",14,,"New, do not need",CORRECT MODEL #: E-941S-1K2/F53Q,,,,,,,
+2504023,BROOKLYN SUPPLY,raizy@blvs.com,Issued RMA,E-941S-600/PBQ,"PLATE SPACER FOR E-941SA-600, ROHS",15,,"New, do not need",CORRECT MODEL #: E-941S-600/PQ,,,,,,,
+2504024,Superior Alarms,warehouse@superioralarms.com,Issued RMA,SK-2323-SDQ,MULLION KEYPAD WITHOUT PROX,1,04/15/2025,Defective,when pressing the buttons they get stuck.,,,,,,,
+2504025,Automated Security Services,automated@comcast.net,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,02024,Defective,Will not power up,UNDER WARRANTY,,Defective,"Unit started smoking, installer error",Return,Due to installer error this unit will be returned.,W92
+2504026,Crime Prevention Technologies,dandieterle9@gmail.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,Quit Working,UNDER WARRANTY,12A24,Defective,The unit began emitting smoke shortly after being plugged in. This may indicate a potential installation error,Replace,"installer error voltage overload. However, SLI will be replacing this one time with new.",W92
+2504027,Anixter - Canada,canada.nrc@anixter.com,Completed,PC-U1810-PULQ,"CCTV Power Supply 18 Output, 10A",1,PCU1810052300042,Defective,MM Defect.,NOT APPLICABLE,05A23,Defective,"Defective unit - tested by anh
+Swollen Capacitors.",Issue Credit,,W92
+2504028,ALARMAX DISTRIBUTORS,LOWENS@ALARMAX.COM,Completed,SK-1323-SPQ,VANDAL KEYPAD WITH PROX,15,,"New, do not need","ORDERED FOR CUSTOMER AND HIS JOB IS COMPLETE, WE HAVE TOO MANY IN STOCK NOW",UNDER WARRANTY,,New unit(s),All new units x15,Issue Credit,,W01
+2504029,silmar electronics,MSOTO@SILMARELECTRONICS.COM,Completed,E-941SB-1K2PQ,"Black 1,200lb Maglock with Bond Sensor & LED",1,09a22,Defective,"the unit worked 3 days, not engaging",UNDER WARRANTY,09A22,Defective,"Wants credit. MOV completely burnt, most likely installer error
+can be repaired by replacing the board. coils are fine.",Repair,installer error pcv will be replaced and returned.,
+2504030,silmar electronics,MSOTO@SILMARELECTRONICS.COM,Issued RMA,DP-266-CAQ,Additional Camera for DP-266-1C7Q,1,0824,"New, do not need",new for credit please,,,,,,,
+2504031,Security Equipment Supply,mdaugherty@sesonline.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,"Buttons #, 9, 0 do not function; replacement or credit is acceptable",UNDER WARRANTY,06A24,Defective,"Buttons #, 9, 0 don't respond",Replace,,W92
+2504032,AVX Tech Warehouse,warehouse@avx-tech.com,Completed,MVE-AH1E4-42NQ,4K 1x4 HDMI Splitter & Extender over Cat6,1,01A,Defective,Receiver is not getting signal from source,OUT OF WARRANTY,,Defective,Tested by anh,Replace,replace with a refurbished unit,W92
+2504033,James Marra,jamiemarra@aol.com,Issued RMA,EV-5105-N1SQ,"Discreet Indoor/Outdoor Wall Plate Camera, 2.4mm Lens, 1000TVL",1,,Defective,I called your company today to inquire about getting a replacement lense (if Possible) for my camera. You do not have this camera available either. My camera was vandalize and the protective lense was all scratched up and now not usable. This camera was supposed to be Vandal Resistant but is obviouslt not. I do have photos upon request. Can you help me and provide any parts or another unit and tell me what product can replace my current unit? Thank You,,,,,,,
+2504034,T.S DISTRIBUTORS,etorres@tsdistributors,Completed,E-942FC-1K3SQ,E-942FC-1300 W/ WELDABLE BRCK,1,PITWGW1-04AA16,Defective,LOSING POWER,UNDER WARRANTY,07a19,Defective,"Red and Black measures 5 kohms and green and white measures 14 kohms
+Coils are defective.",Replace,,W92
+2504035,BANNER SOLUTIONS,micki.mitchen@bannersolutions.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,prox feature not working customer called in for support/ Banner PO 6339995 return only i can replace the item for cust from our stock,UNDER WARRANTY,06A24,Defective,Prox does not read.,Issue Credit,,W92
+2504036,Gates and controls,sacramento@gatesandcontrols.com,Completed,DP-266-M7Q,"Additional 7"""""""" Monitor for DP-266-1C7Q",1,,"New, do not need","Please process return. Was approved by Sergio Mendoza by email, restocking fee to be waived.",UNDER WARRANTY,,New unit(s),,Issue Credit,,W01
+2504037,Alarmax,Ntaylor@alarmax.com,Completed,EV-N5205-3S4Q,2MP IP Wall Plate Camera,1,,Defective,will not power up,OUT OF WARRANTY,05A24,Defective,No power,Issue Credit,,W92
+2504037,Alarmax,Ntaylor@alarmax.com,Completed,EV-N5205-3S4Q,2MP IP Wall Plate Camera,1,n/A,Defective,Does not power one,OUT OF WARRANTY,"Single Gang box not included, therefore, warranty cannot be confirmed.",Defective,Unit does not turn on -AN,Issue Credit,,W92
+2504038,Southwest automated security,dwalter@southwestautomated.com,Completed,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,1,04A24,Defective,This keypad was working intermittently. It would function and then not function. Can this please be tested for an extended period of time....We would like to set this up to be repaired only. Not advance replaced.,UNDER WARRANTY,04A24,Tested to be working,"Wants a replacement. 
+Unit is tested to be working. We will have to long term test to figure out if it is defective.",Issue Credit,ask to provide a more detailed response.,W90
+2504039,donald taylor,taylordr61@yahoo.com,Completed,E-942FC-600SQ,E-942FC-600 W/ WELDABLE BRCKT,1,,Defective,"Magnet will not hold,  clicks off and on.  Coil resistance too high",UNDER WARRANTY,11A21,Defective,"Coils are shorted, doesn't magnetize",Replace,will be sending a refurbished unit,W90
+2504040,Alarmax,Mheller@alarmax.com,Completed,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,3,NO DATECODE LSITED,Defective,All three of these are used in a school along with a bunch others. These 3 the installer believes that they are over heating. Or cannot handle the usage of the faculty wing of the school.,UNDER WARRANTY,"01A25
+01A25
+12A24",Defective,"First one: Heats up after being connected for longer than 1 minute.
+Second one: Card fob doesnt read
+Third one: Dead, wouldnt turn on.",Replace,,W92
+2504041,QUIKTRIP FACILITY SUPPORT,jpratt@sagenet.com,Completed,E-941SA-80Q,80lb Maglock,1,2021.1,Defective,will not hold lock,OUT OF WARRANTY,11A20,Tested to be working,Unit works,Replace,"recheck alignment or PS, in the future if wires are cut, we will return the unit as is but in this case we will replace.",W90
+2504041,QUIKTRIP FACILITY SUPPORT,jpratt@sagenet.com,Completed,E-941SA-80Q,80lb Maglock,1,2021.7,Defective,will not hold lock,OUT OF WARRANTY,04A21,Defective,"Cannot be tested, wires were cut completely",Replace,,W92
+2504042,BROOKLYN SUPPLY,raizy@blvs.com,Completed,SK-910RB2Q,2 CHRX S/M RL O/P 315 CODEBUM,1,01293234,Defective,Not working at all,OUT OF WARRANTY,10A20,Defective,Unit looks old and does not function. Does not accept Tx and only triggers relay when powered on,Replace,5 years old and future reference will be returned,W92
+2504043,Texas Safe and Lock,sales@texassafeandlock.com,Completed,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,2,08A24 & 04A24,Defective,"One the customer complained of a shocking feeling when touching the unit, the other one was turning off and on intermittently.",UNDER WARRANTY,"04A24, Doesnt turn on
+
+08A24, Works",Tested to be working,"04A24, Doesnt turn on
+
+08A24, Works",Replace,Replace one and will be sending back the other one,
+2504044,Remote Access Sales,peter@remoteaccesssales.com,Completed,DP-264-M7Q,DP-264 Series Monitor,1,01-2024,Defective,MONITOR IMAGE IS UPSIDE DOWN AND THEN TURNS SOLID WHITE.,OUT OF WARRANTY,01A24,Defective,"Screen doesn't show any image, everything else works",Replace,,W92
+2504045,Wesco,Whitney.Green@anixter.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,08A24,Defective,"DEFECTIVE,",UNDER WARRANTY,08A24,Tested to be working,Works no issues,Return,Product works will not issue credit - MB,W90
+2504046,SECURITY EQUIPMENT SUPPLY,cclendenen@sesonline.com,Waiting to ship out,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,1,04A24,Defective,DEAD NOT WORKING,OUT OF WARRANTY,04A24,Defective,Does not power on,Replace,"Unit was found to be damaged by installer, will be replaced with refurbished unit",W92
+2504047,JPC Security,Mark@jpconstructs.com,Issued RMA,SD-996C-NUQ,"STRIKE,12/24V,NO/NC,3 PLATES",1,07A24,Defective,New install.  Will not pull plunger back.  Went to Electronic Supply in Pensacola and picked up a new and it worked fine.,,,,,,,
+2504048,Crime Prevention Technologies,dandieterle9@gmail.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,No bluetooth responding,UNDER WARRANTY,12A24,Defective,"Once powered on blue light turns on but disappears immediately and turns green.
+
+Matrix?",Replace,Blue light,W92
+2504049,Canal Alarm Devices,fahad.k@canalalarm.com,Completed,SK-1323-SPQ,VANDAL KEYPAD WITH PROX,1,,Defective,Stopped Working,OUT OF WARRANTY,04A24,Defective,Doesn't turn on,Replace,Replace Unit,W92
+2504050,philip Dinnis,pdinnis@gmail.com,Completed,SK-1123-SDQ,"Outdoor Keypad, 2 outputs, 12~24 VAC/VDC, 1100 users",1,03A24,Defective,Complete failure,OUT OF WARRANTY,03A24,Defective,Powers on but no LED turns on,Replace,Will be replacing with a refurbished unit,W92
+2504051,CCTV.NET,hovik@cctv.net,Completed,EV-N6506-3W4Q,5MP IP PIR Fixed,2,,Defective,"(Defective items) after changing the IP address, it doesn't detect on the network",UNDER WARRANTY,03A24 both,Tested to be working,Anh tested to be working perfectly fine,Return,"Both units worked perfectly fine, units will be returned",
+2504052,ELECTRONIC ENTRY DISTRIBUTORS,rmartin@electronicentrydistributors.com,Completed,E-931-S50RRGQ,"50FT REFLECTIVE PHOTOBEAM SENSOR, ETL UL325",1,S/N: 11A24,Defective,I am not sure customer just sent and said it was not working.,UNDER WARRANTY,11A24,Tested to be working,Works,Replace,Product tested to work but will be replacing this one time,W90
+2504053,Twin Stone,yarlin@twinstonemarble.com,Completed,SK-1323-SDQ,VANDAL KEYPAD WITHOUT PROX,1,,Defective,"Keypad not working, tried to program new codes for new employees and won't let me, technical support checked on the phone with me and it is not working, once you enter the master code won't let you re-program new codes.",OUT OF WARRANTY,05A19,Defective,doesn't give any feedback,Replace,This unit will be replaced with a new unit.,W92
+2504054,APA DISTRIBUTION,josm@apainc.ca,Completed,SD-927PKC-NEQ,"Indoor No-Touch Sensor with Timer, English",1,05A23 - INSTALLED 01/25,Defective,RELAY CONTINUES TO FIRE INDEFINITELY,UNDER WARRANTY,05A23,Defective,"Relay works, will test long term for relay issues",Issue Credit,,W90
+2504054,APA DISTRIBUTION,josm@apainc.ca,Completed,SK-2323-SPQ,MULLION KEYPAD WITH PROX,1,N/A - INSTALLED 07/24,Defective,"DEFECTIVE KEYPAD, KEYPAD BUTTONS NOT RESPONDING.",NOT APPLICABLE,,Defective,Powers on but no relay input is accepted,Issue Credit,wto works will issue credit,W92
+2504055,"Countryside Locksmith, LLC",dennis@cslock.com,Issued RMA,SK-1323-SPQ,VANDAL KEYPAD WITH PROX,1,,Defective,UNIT LIGHTS UP GREEN. UNABLE TO AFFECT CHANGES BY FACORY RESET,,,,,,,
+2504055,"Countryside Locksmith, LLC",dennis@cslock.com,Issued RMA,SK-1323-SPQ,VANDAL KEYPAD WITH PROX,1,,Defective,UPON POWER UP DEVICE EMITS SOUND WITH RED AND AMBER LIGHTS ILLUMINATED,,,,,,,
+2504056,PIONEER MUSIC COMPANY,WARRANTY@PMCAV.COM,Completed,SD-R400-BQ,Microwave RTE Sensor,1,,Defective,HAS VOLTAGE IN BUT WILL NOT FUNCTION,OUT OF WARRANTY,10A21,Defective,Potentiometer defective and unit does not trigger when activated,Replace,,W92
+2504057,BHC INTEGRATED SUPPORT SERVICES,MDYKES@ESC-SUPPLY.COM,Completed,MVD-AH14-01Q,"HDMI Splitter, 1 x 4, 4K@60",1,07A24,Defective,"CUSTOMER PURCHASED ,WORKED 1 MONTH AND QUIT. I REPLACED WITH NEW UNIT AT NO COST TO CUSTOMER.",UNDER WARRANTY,07A24,Defective,works,Replace,MB,W90
+2504058,BHC INTEGRATED SUPPORT SERVICES,MDYKES@ESC-SUPPLY.COM,Completed,MVD-AH12-01Q,"HDMI Splitter, 1 x 2, 4K@60",1,07A23,Defective,FAILED,OUT OF WARRANTY,,Tested to be working,Unit works.,Repair,item works it wil be returned - MB,W90
+2504059,SAC TECNOLOGIA,mordonez@sactecnologia.com,Completed,ST-2406-3AQ,"POWER SUPPLY, 6-12-24VCD, 2.5",2,,Defective,,OUT OF WARRANTY,,Defective,,Discard,,

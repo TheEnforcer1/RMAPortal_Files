@@ -1,0 +1,136 @@
+RMA No.,Name,Email Address,Status,Product Code,Description,Quantity,Date Code,Reason For Returning,Detailed Problem Description,Warranty Status,Warranty Status Remarks,Findings,Findings Remarks,Resolution,Resolution Remarks,Transfer to Warehouse
+2507001,Alarm Products Distributors,rmadepartment@apdmn.com,Issued RMA,SM-4201-LQ,"N.C. Magnetic contact, industrial, track-mount, wide-gap with leads, aluminum",1,11a24,Defective,This unit will not change state.,,,,,,,
+2507002,Alarmax Ft Lauderdale,derek.bonner3@gmail.com,Issued RMA,E-941SA-600,600lb Maglock,1,07a24,Defective,Failed in field,,,,,,,
+2507003,IMLSS,sanda.vung@imlss.com,Completed,SD-997B-1SQ,"MINIATURE ELECTRIC DEADBOLT, FAIL SAFE, 12VDC",1,,Missing Parts,Missing pig tail wire,UNDER WARRANTY,,Tested to be working,,Return,,
+2507004,T.S DISTRIBUTORS,etorres@tsdistributors,Completed,E-942FC-600SQ,E-942FC-600 W/ WELDABLE BRCKT,1,PITGW1-05A18,Defective,NOT MAGNATIZING,OUT OF WARRANTY,05A18,Defective,Doesnt magnetize,Replace,,W92
+2507005,ESC-SUPPLY,jmobley@esc-supply.com,Completed,SK-1123-SDQ,"Outdoor Keypad, 2 outputs, 12~24 VAC/VDC, 1100 users",1,05A25                 (2840697),Defective,WORKED FOR ONE WEEK THEN STOPPED,OUT OF WARRANTY,05A23,Defective,Unit turns on but once plugged in for 10 seconds it overheats,Replace,w90,W92
+2507006,Security Fence Inc.,carsonw@securityfenceinc.net,Completed,SK-B941-PQ,Bluetooth Goose-Neck Keypad with Reader,1,,Defective,"After only being installed for a couple of weeks, the control board seems to have a short in it. The power supply for they keypad shorts out when the keypad is connected to it.",UNDER WARRANTY,11A24,Defective,Board turns on but the keypad shorted,Repair,,W90
+2507007,Lone Star Systems Supply,cynthiav@lonestar-us.com,Issued RMA,SD-927PKC-NEQ,"Indoor No-Touch Sensor with Timer, English",1,,Defective,the request to exit is not powering on when connected... ticket number: 217866,,,,,,,
+2507008,JLM WHOLESALE,DENEEN@JLMWHOLESALE.COM,Issued RMA,AD-DBO-SKB241-EB,"Display board for SK-B241-PQ, English",1,,Defective,FAULTY UNIT REPORTED BY INSTALLER FROM THE FIELD.  NORMAL ADMIN COD RESET INSTRUCTIONS FOLLOWED BUT UNIT WOULD NOT ACCEPT NEW CODE.,,,,,,,
+2507009,koa,cesar@koaedi.com,Issued RMA,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,no power,,,,,,,
+2507009,koa,cesar@koaedi.com,Issued RMA,SK-1123-SPQ,"Outdoor Keypad with Proximity Reader, 2 outputs, 12~24 VAC/VDC, 1100 users.",1,,Defective,button failure,,,,,,,
+2507009,koa,cesar@koaedi.com,Issued RMA,ST-2406-3AEQ,"POWER SUPPLY, 6-12-24VCD, 2.5A With Enciosure",1,,Defective,board failure,,,,,,,
+2507009,koa,cesar@koaedi.com,Issued RMA,SK-910RB2Q,2 CHRX S/M RL O/P 315 CODEBUM,1,,Defective,power issues,,,,,,,
+2507009,koa,cesar@koaedi.com,Issued RMA,E-941SA-600DPSQ,"600lb Maglock with Bond Sensor & LED, Door Position Sensor",1,,Defective,Randomly stops working,,,,,,,
+2507009,koa,cesar@koaedi.com,Issued RMA,SK-1323-SPQ,VANDAL KEYPAD WITH PROX,1,,Defective,DOA,,,,,,,
+2507009,koa,cesar@koaedi.com,Issued RMA,SD-996C-NUVQ,"Door Strike, Vertical Adjustment, 12/24 VDC/VAC",1,,Defective,Does not lock,,,,,,,
+2507009,koa,cesar@koaedi.com,Issued RMA,E-941SA-600DPSQ,"600lb Maglock with Bond Sensor & LED, Door Position Sensor",1,06a24,Defective,no locking,,,,,,,
+2507009,koa,cesar@koaedi.com,Issued RMA,SD-991A-D1Q,Mini No-Cut Electric Door Strike,1,,Defective,does not strike,,,,,,,
+2507009,koa,cesar@koaedi.com,Issued RMA,SK-917T2-GNQ,"2-Button Family Transmitter, 315MHz, ENFORCER Logo, Code Hopping",1,,Defective,smells burn,,,,,,,
+2507010,AVX Tech Warehouse,warehouse@avx-tech.com,Completed,SD-998C-D3AQ,"1/2"""""""" Surface-Mount RIM Strike",1,04A24,Defective,Only one of the locking tongues works.,UNDER WARRANTY,04A24,Defective,Only one latch unlatches,Replace,,W92
+2507011,HSI Security,Nikole@hsi-security.com,Issued RMA,SD-927PKC-NEQ,"Indoor No-Touch Sensor with Timer, English",1,,Defective,Proximity sensor quit working.,,,,,,,
+2507012,koa,cesar@koaedi.com,Completed,SH-816S-SQ/B,"Blue Strobe Light with 1-Tone  plastic square siren & speaker, surface-mount, terminal block",1,12A24,Defective,NO POWER,UNDER WARRANTY,12A24,Defective,"Powers on but no sound, board could be replaced?",Replace,,W90
+2507013,Lince Comercial S.A.S (Columbia),laura.sanchez@lincecomercial.com,Awaiting Credit,SM-200Q/W,N.C. MAGNETIC SWITCH,1,,Defective,NC doesn't operate as it should,,,,,,,
+2507013,Lince Comercial S.A.S (Columbia),laura.sanchez@lincecomercial.com,Awaiting Credit,ST-2406-3AQ,"POWER SUPPLY, 6-12-24VCD, 2.5",1,,Defective,Dead,,,,,,,
+2507013,Lince Comercial S.A.S (Columbia),laura.sanchez@lincecomercial.com,Awaiting Credit,ST-2406-2AQ,"POWER SUPPLY, 6-12-24VDC, 1.5",1,,Defective,Dead,,,,,,,
+2507013,Lince Comercial S.A.S (Columbia),laura.sanchez@lincecomercial.com,Awaiting Credit,ST-UV16-W100Q,"OPEN-FRAME XFMR, 16VAC/100W",2,,Defective,Dead,,,,,,,
+2507013,Lince Comercial S.A.S (Columbia),laura.sanchez@lincecomercial.com,Awaiting Credit,ST-UV16-W100Q,"POWER SUPPLY, 6-12-24VDC, 4.0",2,,Defective,Dead,,,,,,,
+2507014,International Controls and Equipment,dchippa@icegatesystems.com,Awaiting Credit,E-942FC-1K3SQ,E-942FC-1300 W/ WELDABLE BRCK,1,PITGW1-07A22,Defective,Measured maglock coils without power and found readings below range. Installed new maglock restoring system operation.,UNDER WARRANTY,07A22,Defective,Coils are short,,,W92
+2507014,International Controls and Equipment,dchippa@icegatesystems.com,Awaiting Credit,E-942FC-1K3SQ,E-942FC-1300 W/ WELDABLE BRCK,1,PITGW1-06A23,Defective,"When coils metered, one bad. Replaced maglock with new restoring system operation.",UNDER WARRANTY,06A23,Defective,Both coils are short,,,W92
+2507015,Alarm Products Distributors,rmadepartment@apdmn.com,Issued RMA,E-9660-8B25,"8-BEAM BL CURTAIN SENSOR, 60'",1,,Defective,Jake from Gittleman returned the following after speaking with you guys and the unit was deemed bad out of the box - Hoping for credit,,,,,,,
+2507016,Controlled Products Systems Group,rebecca.ash@controlledproducts.com,Issued RMA,E-964-Q330Q,"QUAD BEAM DET, 330', 4 FREQ",1,03A25,"New, do not need","Customer cancelled order, purchased on PO 1533507",,,,,,,
+2507017,SOUTHWEST AUTOMATED SECURITY,JHattey@southwestautomated.com,Issued RMA,SK-B941-PQ,Bluetooth Goose-Neck Keypad with Reader,1,12A24,Defective,Tech support said it was bad out of the box,,,,,,,
+2507018,"Tristate Telecom, Inc.",baila@tristatelvs.com,Issued RMA,SD-9163-KSVQ,"Outdoor No Touch Sensor, Slimline, English, Override",1,,Defective,Dead,,,,,,,
+2507018,"Tristate Telecom, Inc.",baila@tristatelvs.com,Issued RMA,SH-525SQ,Dual Tone Wall Siren,2,,Defective,DEAD,OUT OF WARRANTY,05A23 both work.,Tested to be working,,,,W90
+2507018,"Tristate Telecom, Inc.",baila@tristatelvs.com,Issued RMA,SD-7202GC-PTQ,SD-7202GC-PE WITH TIMER,1,,Defective,DEAD,,,,,,,
+2507019,Access Distribution Centre,Returns@accessdistributioncentre.com,Awaiting Credit,E-942F-600G/WQ,"Weldable bracket set for E-942FC-600 & E-946FC-600Q, Clear Zinc finish",3,,"New, do not need",CANCELLED ORDER FROM PO#28443 RETURN FOR CREDIT,UNDER WARRANTY,,New unit(s),,Issue Credit,,W01
+2507020,BROOKLYN SUPPLY,raizy@blvs.com,Issued RMA,SD-998C-D3AQ,"1/2"""""""" Surface-Mount RIM Strike",1,,Defective,"not working
+Secolarm claim# 2506018",,,,,,,
+2507021,koa,cesar@koaedi.com,Completed,SD-994A-A1AQ,"AC DOOR STRIKE, ASYMMETRICAL, 9~16VAC, 12VDC",1,,Defective,does not strike,UNDER WARRANTY,05A24,Defective,"Filled with corrosion, no power, latch bar broken installer error",Replace,,W92
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SM-226LQ,L-BKT OVERHEAD DOOR CONTACT,300,,"New, do not need",Mis shipment,UNDER WARRANTY,,New unit(s),,Issue Credit,,W01
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SM-216Q/GY,N.C. MAG SW (WIDE GAP),400,,"New, do not need",Mis-shipment,UNDER WARRANTY,,New unit(s),,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SK-910RD1,"1-channel RF Receiver, 315/433.92 MHz",20,,"New, do not need",Mis-shipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SK-919T1-GBQ,"1-Button Family Transmitter, 315 MHz, Enforcer Logo",40,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SD-7201GCPE1Q,"RTE PLATE, GREEN BUTTON, SPDT",75,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SD-7201RCPE1Q,"PUSH-TO-EXIT PLATE, SPDT, RED, ROHS",20,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SD-C121-S1,Door Closer ANSI Size 2,30,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SD-C131-SQ,"Door Closer, ANSI Size 3.",50,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SK-1131-SPQ,"Indoor Stand-Alone Keypad with Prox Reader, 1200 Users, 3 Outputs, Clock, Smart/Delayed Egress",1,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SK-1011-SDQ,"INDOOR STAND-ALONE KEYPAD, 1000 USERS, 1 OUTPUT, CLOCK, VISITOR CODES , SMART/DELAYED EGRESS",2,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,ST-2406-2AQ,"POWER SUPPLY, 6-12-24VDC, 1.5",50,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,ST-2406-3AQ,"POWER SUPPLY, 6-12-24VCD, 2.5",150,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,ST-2406-5AQ,"POWER SUPPLY, 6-12-24VDC, 4.0",150,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,ST-UVDA-W100Q,"OPEN-FRAME XFMR,24-28AC/100W",90,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SA-025Q,TIMER MODULE,40,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SA-026Q,"TIMER MODULE, MINI",10,,"New, do not need",Misshipment,UNDER WARRANTY,,New unit(s),,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SL-126Q/R,"6-12VDC UL STROBE LIGHT, RED",70,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507022,"INALARM, S.A.",sales@seco-larm.com,Completed,SS-090-2H0,"TUBLAR KEY SW SHUNT, #1300",125,,"New, do not need",Misshipment,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2507023,Silmar Electronics Inc,pseren@silmarelectronics.com,Issued RMA,SD-7202GC-PTQ,SD-7202GC-PE WITH TIMER,1,09A24,Defective,request advanced replacement,,,,,,,
+2507023,Silmar Electronics Inc,pseren@silmarelectronics.com,Issued RMA,SD-7202GC-PEQ,"PUSH-TO-EXIT PLATE, ILLUMINAT",1,1024,Defective,REQUEST ADVANCED REPLACEMENT,,,,,,,
+2507024,"Optima Security, Inc.",tom@optimasecurity.com,Issued RMA,PR-B1124-PQ,Bluetooth Single-Gang Keypad,1,installed February 2025,Defective,Red and green light were stuck on and reader would not read the cards or open the door,,,,,,,
+2507025,T.S DISTRIBUTORS,etorres@tsdistributors,Waiting to ship out,SK-1323-SPQ,VANDAL KEYPAD WITH PROX,1,05A24,Defective,NOT READING CARDS,OUT OF WARRANTY,05A24,Defective,fobs dont work,Replace,,W92
+2507026,Security Options,support@securityoptionsltd.com,Issued RMA,SK-2323-SPQ,MULLION KEYPAD WITH PROX,1,,Defective,key pad not responding,,,,,,,
+2507027,Security Options,support@securityoptionsltd.com,Issued RMA,SK-1131-SPQ,"Indoor Stand-Alone Keypad with Prox Reader, 1200 Users, 3 Outputs, Clock, Smart/Delayed Egress",1,09A23,Defective,not powering up,,,,,,,
+2507028,Full protection andina,gerencialogistica-compras@full-protection.com,Issued RMA,SD-927PKC-NSQ,"NO-TOUCH R-T-E SENSOR, SPANISH",10,,"New, do not need",Double invoiced,,,,,,,
+2507028,Full protection andina,gerencialogistica-compras@full-protection.com,Issued RMA,ST-2406-5AQ,"POWER SUPPLY, 6-12-24VDC, 4.0",12,,"New, do not need",Double invoiced,,,,,,,
+2507028,Full protection andina,gerencialogistica-compras@full-protection.com,Issued RMA,ST-UVDA-W180Q,"OPEN-FRAME XFMR,24-28AC/180W",12,,"New, do not need",Double invoiced,,,,,,,
+2507028,Full protection andina,gerencialogistica-compras@full-protection.com,Issued RMA,E-941SA-600PQ,600lb Maglock with Bond Sensor & LED,29,,"New, do not need",Double invoiced,,,,,,,
+2507028,Full protection andina,gerencialogistica-compras@full-protection.com,Issued RMA,E-941S-600/ZQ,Z-Bracket for 600-lb Series Electromagnetic Locks,17,,"New, do not need",Double shipment,,,,,,,
+2507029,Wesco / Anixter,ra-west-tri-edus@anixter.wescodist.com,Issued RMA,E-964-Q660Q,"QUAD BEAM DET, 660', 4 FREQ",8,,"New, do not need","Hello Jorge,
+
+I hope all is well.
+
+Regarding the E-964-Q660Q, we invoiced 25pcs, but we actually shipped 33pcs.
+
+1.	If you want to return the 8pcs – you can use our UPS account.
+2.	If you want to keep the units – we need to invoice the 8pcs.
+
+Please let me know how you want to proceed.",,,,,,,
+2507030,"Silmar Electronics, Inc.",tokeefe@silmarelectronics.com,Issued RMA,SD-6276-SS1Q,"PIEZO RTE, SNGL-GNG, ENG/SPNS",1,10A24,Defective,BAD OUT OF THE BOX / BAD SHORT,,,,,,,
+2507031,Jayso Electronics Corp,Alan@jayso.com,Issued RMA,SD-998C-D3AQ,"1/2"""""""" Surface-Mount RIM Strike",1,?,Defective,One of the jaws opens only intermittently,,,,,,,
+2507032,Security control llc,alarmdog1961@aol.com,Issued RMA,VA-1104B-WQ,"1-IN, 4-OUT VIDEO DISTRIBUTOR",1,07a24,Defective,Device has no out put to hdmi outs,,,,,,,
+2507033,Nouveau,dwhite@nes-tx.com,Issued RMA,EAP-5D5Q,"Access Control Power Supply, 5.0A @12VDC, 5 O/P",1,,Wrong Item,"""Looks like I ordered the incorrect power supplies. Need to return 1 of the EAP-5D5Q and 4 of the EAP-5D1Q and get 1 EAP-5D8 and 5 EAP 5D4 units.
+What is the process?""",,,,,,,
+2507033,Nouveau,dwhite@nes-tx.com,Issued RMA,EAP-5D1Q,"Access Control Power Supply, 5.0A @12VDC, 1 O/P",4,,Wrong Item,"""Looks like I ordered the incorrect power supplies. Need to return 1 of the EAP-5D5Q and 4 of the EAP-5D1Q and get 1 EAP-5D8 and 5 EAP 5D4 units.
+What is the process?""",,,,,,,
+2507035,BANNER SOLUTIONS,micki.mitchen@bannersolutions.com,Issued RMA,SD-996C-NUVQ,"Door Strike, Vertical Adjustment, 12/24 VDC/VAC",1,,Defective,"Unit doesn't lock completely, I use force, and it opens",,,,,,,
+2507036,AVX Tech Warehouse,warehouse@avx-tech.com,Issued RMA,MVE-AHMPM-41NQ,HDMI Extender over IP 4K@30Hz Set,1,08A21,Defective,Distorted image,,,,,,,
+2507037,D and A Gate and Access Control,info@dagateaccess.com,Issued RMA,E-936-S45RRGQ,"NIR PB, 3'' REFLECT, HOOD, 45', ETL UL325",1,,Defective,GATE CONTINUING TO STAY IN OPEN POSITION - NARROWED DOWN TO SAFETY SENSOR - NO OBSTRUCTION - JUST NOT ALLOWING THE GATE TO CLOSE. TRIED TO CONTACT SECO ON THE PHONE BUT INSTRUCTED TO FILE RMA ONLINE.,,,,,,,
+2507038,DSG DISTRIBUTORS,ALLANS@DSGDIST.COM,Issued RMA,SD-996C-NUHQ,"Electric Door Strike, Horizontal Adj. 12/24VDC",1,,Defective,Stopped working,,,,,,,
+2507038,DSG DISTRIBUTORS,ALLANS@DSGDIST.COM,Issued RMA,SK-2323-SDQ,MULLION KEYPAD WITHOUT PROX,2,,Defective,Stopped working,,,,,,,
+2507039,ADVANTAGE ELECTRONICS LLC,cj@advantageelectronicsllc.com,Issued RMA,SD-7202GC-PTQ,SD-7202GC-PE WITH TIMER,1,,Defective,need rma credit back on to advantage electronics account.,,,,,,,
+2507040,ESC SUPPLY,jglover@esc-supply.com,Issued RMA,MVD-AH14-01Q,"HDMI Splitter, 1 x 4, 4K@60",1,07A24,Defective,no output,,,,,,,
+2507041,DWG,rma@dwgdistribution.com,Issued RMA,SK-2612-SPQ,"Mullion Stand-Alone/Wiegand Keypad with Prox, 1 Output",1,12A23,Defective,"Our customer recently purchased 5 of this keypad for a project and had an issue with this 1 unit that does not power.
+
+We have replaced the unit for our customer with a new one from our inventory so he could finish his job in a timely manner.
+
+We need an RMA, ideally for credit for this dead unit as a replacement is not necessary in this case.",,,,,,,
+2507042,Locks Co,ronnie@locksco.com,Issued RMA,SD-995C,"ELEC. STRIKE, METAL DR. NO/NC",1,,Defective,"I’m requesting an RMA to return the following defective item, which have already been replaced to our customers: I can’t provide technical details on the defects—just the items for return. I would greatly appreciate your help with this request while we continue working on establishing a proper merchandise return process on our end.
+
+Thank you for your understanding and support.",,,,,,,
+2507042,Locks Co,ronnie@locksco.com,Issued RMA,E-941DA-600Q,600lb Double-Door Maglock,1,,Defective,"I’m requesting an RMA to return the following defective item, which have already been replaced to our customers: I can’t provide technical details on the defects—just the items for return. I would greatly appreciate your help with this request while we continue working on establishing a proper merchandise return process on our end.
+
+Thank you for your understanding and support.",,,,,,,
+2507042,Locks Co,ronnie@locksco.com,Issued RMA,SK-910RD1,"1-channel RF Receiver, 315/433.92 MHz",1,,Defective,"I’m requesting an RMA to return the following defective item, which have already been replaced to our customers: I can’t provide technical details on the defects—just the items for return. I would greatly appreciate your help with this request while we continue working on establishing a proper merchandise return process on our end.
+
+Thank you for your understanding and support.",,,,,,,
+2507042,Locks Co,ronnie@locksco.com,Issued RMA,SK-919T1-GBQ,"1-Button Family Transmitter, 315 MHz, Enforcer Logo",1,,Defective,"I’m requesting an RMA to return the following defective item, which have already been replaced to our customers: I can’t provide technical details on the defects—just the items for return. I would greatly appreciate your help with this request while we continue working on establishing a proper merchandise return process on our end.
+
+Thank you for your understanding and support.",,,,,,,
+2507043,Canal Alarm Devices,fahad.k@canalalarm.com,Issued RMA,SD-998C-D3AQ,"1/2"""""""" Surface-Mount RIM Strike",1,,Defective,Stopped Working,,,,,,,
+2507043,Canal Alarm Devices,fahad.k@canalalarm.com,Issued RMA,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,4,,Defective,Freezing,,,,,,,
+2507043,Canal Alarm Devices,fahad.k@canalalarm.com,Issued RMA,SK-919T2-GNQ,"2-Button Family Transmitter, 315 MHz, Enforcer Logo",4,,Defective,Stopped Working,,,,,,,
+2507043,Canal Alarm Devices,fahad.k@canalalarm.com,Issued RMA,SK-2323-SDQ,MULLION KEYPAD WITHOUT PROX,1,,Defective,Defective,,,,,,,
+2507043,Canal Alarm Devices,fahad.k@canalalarm.com,Issued RMA,SK-1323-SPQ,VANDAL KEYPAD WITH PROX,2,,Defective,Stopped Working,,,,,,,
+2507043,Canal Alarm Devices,fahad.k@canalalarm.com,Issued RMA,MVD-AH12-01Q,"HDMI Splitter, 1 x 2, 4K@60",1,,Defective,No video output,,,,,,,
+2507043,Canal Alarm Devices,fahad.k@canalalarm.com,Issued RMA,PA-U0405-NULQ,"4 Channel, 12VDC/5A CCTV Power Supply",2,,Defective,No Power,,,,,,,
+2507043,Canal Alarm Devices,fahad.k@canalalarm.com,Issued RMA,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,3,,Defective,Stopped Working,,,,,,,
+2507043,Canal Alarm Devices,fahad.k@canalalarm.com,Issued RMA,SK-2323-SPQ,MULLION KEYPAD WITH PROX,1,,Defective,Stopped Working,,,,,,,
+2507044,ACI,Igalyazdi@gmail.com,Issued RMA,SD-993B-SS,"SHEAR LOCK, 1500 LBS",1,September 2020,Defective,Unit does not magnetize,,,,,,,
+2507044,ACI,Igalyazdi@gmail.com,Issued RMA,SD-993B-SS,"SHEAR LOCK, 1500 LBS",1,September 2020,Defective,Unit does not magnetize,,,,,,,
+2507045,End User,support2@seco-larm.com,Completed,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,1,04A24,Defective,"Keypad relay is bad, rich dropped",OUT OF WARRANTY,,Defective,,Replace,,W92
+2507046,Sand Drive LLC,kyle@sanddrivellc.com,Issued RMA,SH-816S-SMQ/R,4-in-1 Multi-Purpose Siren/Strobe (Red),2,,Defective,2 x SH-816S-SMQ/R defective. He will ship unit back to us on our UPS Account 974449,,,,,,,
+2507047,silmar electronics,MSOTO@SILMARELECTRONICS.COM,Issued RMA,SD-6176-SS1Q,"PIEZO RTE, SLIMLINE, ENG/SPNS",1,11A24,Defective,the light of the button does not illuminate ever. bad out of box,,,,,,,
+2507048,BROOKLYN SUPPLY,raizy@blvs.com,Issued RMA,SK-1011-SDQ,"INDOOR STAND-ALONE KEYPAD, 1000 USERS, 1 OUTPUT, CLOCK, VISITOR CODES , SMART/DELAYED EGRESS",1,,Defective,A few buttons may be defective they keep getting stuck after pressing...,,,,,,,
+2507049,Quick Key Inc - Chicago,yahaira.zamora@bannersolutions.com,Issued RMA,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,1,,Defective,WILL NOT POWER / CASE 2506038,,,,,,,
+2507050,Refined Systems LLC,lmoses@refinedsystems.com,Issued RMA,EAP-5D1Q,"Access Control Power Supply, 5.0A @12VDC, 1 O/P",1,08A24,Defective,"This device is powering a Maglock but it is constantly power cycling every 7 seconds. This power supply is defective and we are requesting an advanced replacement. Original PO attached, Purchased February of this year.",,,,,,,
+2507051,Security Equipment Supply,mdaugherty@sesonline.com,Issued RMA,SM-4201-LQ,"N.C. Magnetic contact, industrial, track-mount, wide-gap with leads, aluminum",1,04A25,Defective,Part bad out of package,,,,,,,
+2507052,Bob Distributing Inc,tiffany.roland@bobsdist.com,Issued RMA,HL-951T1-SQ,917MHz Transmitter - 1 button/logo,1,,"New, do not need",Looking to return. We don't need these.,,,,,,,
+2507052,Bob Distributing Inc,tiffany.roland@bobsdist.com,Issued RMA,HL-951R1-SQ,917MHz Receiver - 1 channel,1,,"New, do not need",Looking to return. We don't need these.,,,,,,,
+2507052,Bob Distributing Inc,tiffany.roland@bobsdist.com,Issued RMA,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,"New, do not need",Looking to return. We don't need these.,,,,,,,
+2507052,Bob Distributing Inc,tiffany.roland@bobsdist.com,Issued RMA,SD-927PKC-NEVQ,Indoor No-Touch Sensor with Override Button - English,1,,"New, do not need",Looking to return. We don't need these.,,,,,,,
+2507052,Bob Distributing Inc,tiffany.roland@bobsdist.com,Issued RMA,SD-7103GC-PEQ,"PUSH-TO-EXIT PLATE, SLIM, ILU",1,,"New, do not need",Looking to return. We don't need these.,,,,,,,
+2507052,Bob Distributing Inc,tiffany.roland@bobsdist.com,Issued RMA,SD-7202GC-PEQ,"PUSH-TO-EXIT PLATE, ILLUMINAT",1,,"New, do not need",Looking to return. We don't need these.,,,,,,,
+2507052,Bob Distributing Inc,tiffany.roland@bobsdist.com,Issued RMA,SD-927PKC-NEQ,"Indoor No-Touch Sensor with Timer, English",2,,"New, do not need",Looking to return. We don't need these.,,,,,,,
+2507053,APA Inc,rma@apainc.ca,Issued RMA,SK-2323-SPQ,MULLION KEYPAD WITH PROX,1,,Defective,keys not responding,,,,,,,
+2507053,APA Inc,rma@apainc.ca,Issued RMA,SK-1123-SPQ,"Outdoor Keypad with Proximity Reader, 2 outputs, 12~24 VAC/VDC, 1100 users.",1,,Defective,Door relay remains activated,,,,,,,

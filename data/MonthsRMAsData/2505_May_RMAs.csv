@@ -1,0 +1,1195 @@
+RMA No.,Name,Email Address,Status,Product Code,Description,Quantity,Date Code,Reason For Returning,Detailed Problem Description,Warranty Status,Warranty Status Remarks,Findings,Findings Remarks,Resolution,Resolution Remarks,Transfer to Warehouse
+2505001,Telepro Communications,ggarcia@teleprocommunications.com,Issued RMA,E-941SA-600,600lb Maglock,1,October 2021,Defective,Maglock shorts Access control system,,,,,,,
+2505002,Canal Alarm Devices,fahad.k@canalalarm.com,Completed,DP-266-1C7Q,"Wireless Video Door Phone Kit, Includes Camera and 7",1,,Defective,keeps freezing up. can't set time (thats when it freezes),UNDER WARRANTY,08A24,Defective,Monitor won't turn on,Replace,monitor will be replaced,W92
+2505003,"Silmar Electronics, Inc.",cliles@silmarelectronics.com,Issued RMA,SK-1323-SPQ,VANDAL KEYPAD WITH PROX,1,0424,Defective,Programming is disabling randomly.,,,,,,,
+2505004,"Logical Decisions, Inc",peggy@ldi.com,Completed,E-964-D390Q,"DUAL BEAM DET, 390' 4 FREQ",1,08a23,Defective,Receiver does not trip relay to gate,OUT OF WARRANTY,08A23,Defective,No continuity,Replace,,W92
+2505005,Wesco/Anixter,misty.hayes@anixter.com,Issued RMA,HL-951T1-SWQ,HL Series 1 button transmitter with wires and DIP Switch coding,1,,Defective,"Transmitter not working. During install of transmitter and four receivers the transmitter was working properly, both off the 12v power in the call box and its internal battery. After about 2 hours of use it stopped working and all attempts to get it to come back on failed.",,,,,,,
+2505006,Wesco,Whitney.Green@anixter.com,Completed,E-9660-8B25,"8-BEAM BL CURTAIN SENSOR, 60'",1,01A24,Defective,Bad out of box ticket # 4715024100 (Credit or replacement will be fine),UNDER WARRANTY,01A24,Defective,transmitter doesn't connect to receiver,Issue Credit,CM; 10074,W92
+2505007,The Systems Depot,jessica.walling@sdepot.com,Completed,HL-951R1-SQ,917MHz Receiver - 1 channel,1,,Defective,Will not power up. Can't find a date code on item. requesting credit.,OUT OF WARRANTY,,Defective,Unit wont pair,Issue Credit,,W92
+2505008,Wicked Core,deborah@wicked-core.com,Completed,SK-2323-SDQ,MULLION KEYPAD WITHOUT PROX,1,,Defective,"Key pad will not luminate. Does not work,",UNDER WARRANTY,07A24,Defective,Turns on but no input accepted,Replace,we will be replacing.,W92
+2505009,ADA Entrance Solutions,joey@adaentrancesolutions.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,11A24,Defective,no longer reading fobs,UNDER WARRANTY,11A24,Defective,Keypad does not read fobs. Defective Coil,Replace,,W92
+2505010,Affordable Gate Systems,keith.affordablegates@gmail.com,Completed,SK-1323-SDQ,VANDAL KEYPAD WITHOUT PROX,2,,Defective,"Per Email conversations with Alex Aaron, he advised us to ""Just do an RMA for those 2 units and we will replace them with new units.""",OUT OF WARRANTY,,Defective,"filled with corrosion
+
+1. relay issues
+
+2. defective. 
+
+2.",Replace,,W92
+2505011,ELECTRONIC PARTS SPECIALISTS,electrtonicparts@msn.com,Issued RMA,PC-U1810-PULQ,"CCTV Power Supply 18 Output, 10A",1,,Defective,DEAD,,,,,,,
+2505011,ELECTRONIC PARTS SPECIALISTS,electrtonicparts@msn.com,Issued RMA,MVD-AH14-01Q,"HDMI Splitter, 1 x 4, 4K@60",1,,Defective,DEAD,,,,,,,
+2505012,DON'S REPAIR SERVICE,DONM1947@HOTMAIL.COM,Completed,E-942FC-600,600LB MAGNETIC GATE LOCK,1,09A19,Defective,ONE COIL READS 48 OHMS OTHER IS OPEN,OUT OF WARRANTY,"09A19
+02A20",Defective,coils shorted out replaced,Replace,,W92
+2505012,DON'S REPAIR SERVICE,DONM1947@HOTMAIL.COM,Completed,E-942FC-600,600LB MAGNETIC GATE LOCK,1,02A20,Defective,ONE COIL READS 48 OHMS OTHER IS OPEN,OUT OF WARRANTY,,Defective,,Replace,,W92
+2505013,Lockey Suppy,Jay@lockeysupply.com,Completed,SK-2323-SPQ,MULLION KEYPAD WITH PROX,2,07A24,Defective,The Keypad works but not the proximity,UNDER WARRANTY,07A24 (probably not the correct date code),Defective,3 beep issue x2,Replace,,W92
+2505014,T.S DISTRIBUTORS,etorres@tsdistributors,Completed,E-942FC-1K3SQ,E-942FC-1300 W/ WELDABLE BRCK,1,,Defective,LOSING MAGNATISM,OUT OF WARRANTY,03A15,Defective,coils shorted out 14k ohm,Replace,,W92
+2505015,BROOKLYN SUPPLY,raizy@blvs.com,Completed,SD-998C-D3Q,"3/4"""""""" Surface-Mount RIM Strike",1,,Defective,NOT ALWAYS RELEASING DOOR,UNDER WARRANTY,07A24,Defective,"unit smells burnt, hard to tell if installer error",Replace,,W92
+2505016,BROOKLYN SUPPLY,raizy@blvs.com,Completed,SD-7175SGEX1Q,"Vandal-Resistant Slimline Illuminated RTE Plate, Illumination is RGB for 7 different Color",1,,Defective,"came with the wrong button installed
+4 it should be illuminated and it is not",OUT OF WARRANTY,01A22,Tested to be working,"Unit that was stated to be returned is the SD-7175SGEX1Q. Product label and Giftbox confirm this. However, unit that was received is actually the SD-7104SGEX1Q (the non illuminated version). W90 error or End user error.",Replace,,W90
+2505017,James Morris,jemorris@bellsouth.net,Completed,E-942FC-1300,1200LB MAGNETIC GATE LOCK,1,,Defective,"After about 6 months of properly functioning, it has developed about a one second delay before releasing which causes a binding of gate arm.  Tech support confirmed this as a defect under warranty.",UNDER WARRANTY,07A24,Tested to be working,Unit was found to be working.,Replace,Replace with new unit,W90
+2505018,Hartz Lock Co.,hartzlock@yahoo.com,Issued RMA,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,12A24,Defective,SK-B141-PQ installed on 4/29/25.  Customer complained of reader issues on 5/1/25.  Replaced on 5/2/25 due to inoperative prox reading function.  Replaced with SK-B241-PQ due to less issues with mullion style devices.,,,,,,,
+2505019,SECURITY EQUIPMENT SUPPLY,returns.indianapolis@sesonline.com,Completed,SK-2612-SPQ,"Mullion Stand-Alone/Wiegand Keypad with Prox, 1 Output",1,01A25,Defective,Will not work in Weigand Mode. Tech support was unable to help customer. Returning for credit.,UNDER WARRANTY,01A25,Tested to be working,"Unit works, Weigand mode works.",Issue Credit,"unit works provide details, replace this one time",
+2505020,SECURITY EQUIPMENT SUPPLY,RETURNS.MEMPHIS@SESONLINE.COM,Completed,SK-2612-SPQ,"Mullion Stand-Alone/Wiegand Keypad with Prox, 1 Output",4,01A25,Wrong Item,"CUSTOMER RETURNED AND SAID THE PARTS WOULD NOT WORK FOR THEIR JOB. THESE WERE INSTALLED, BUT HAVE NO BOXES FOR RETURN.",UNDER WARRANTY,,Tested to be working,"No giftbox, accessory or cards included. 
+Units were found to be dented and scratched. Cannot sell as new",Issue Credit,units were returned without box; in the future these will not be accepted,W92
+2505021,A1 SECURITY SUPPLY,WILL@A1ALARM.COM,Waiting to ship out,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,1,02/24,Defective,"The manual's configuration for the keypad, won't operate the relay/ door lock",OUT OF WARRANTY,02A24,Tested to be working,"both relays work, tested with strike and it works",Return,,
+2505022,Wesco / Anixter,ra-west-tri-edus@anixter.wescodist.com,Completed,SL-1301-SAQ/C,"LED Storbe Light, 54 LEDs, 9 to 24VAC/VDC, Siren, Clear",5,,"New, do not need",credit RMA request on PO#051-094831-670   Part# SL-1301-SAQ/C  QTY: 5,UNDER WARRANTY,New,New unit(s),,Issue Credit,,W01
+2505023,"ELITE TECH GROUP, INC.",harry@securityzonepr.com,Completed,E-931-S50RRGQ,"50FT REFLECTIVE PHOTOBEAM SENSOR, ETL UL325",1,05A23,Defective,Problems with the NC and NO. the client said that not respond. He put another new and this work,OUT OF WARRANTY,05A23,Defective,Doesnt turn on,Issue Credit,,W92
+2505024,IML Security Supply,alma.arredondo@imlss.com,Completed,EAP-1D1Q,"Access Control Power Supply 1A, 1 Output, Small Enclosure",2,QC MW041 05A22,Defective,Will not power on,OUT OF WARRANTY,"1: 05A22
+2. 05A22",Defective,Loose transformer,Issue Credit,,W92
+2505025,Anixter - Canada,canada.nrc@anixter.com,Completed,PR-3125-PQ,Single-Gang Stand-Alone/Wiegand Proximity Reader,1,04A20,Defective,POWER FAILURE,OUT OF WARRANTY,04A20,Defective,Unit doesnt turn on,Replace,,W92
+2505026,Carolina Wiring Service,Adam@wiredbycws.com,Issued RMA,E-942FC-600,600LB MAGNETIC GATE LOCK,1,06A12,Defective,Lock would not stay secure,,,,,,,
+2505027,Quick Quick Locksmith,quickquicklocksmith@gmail.com,Issued RMA,SK-2323-SPQ,MULLION KEYPAD WITH PROX,1,08A22,Defective,Item is not responding when buttons are pressed. It does get power just does not respond when it receives input.,,,,,,,
+2505028,AVX Tech Warehouse,warehouse@avx-tech.com,Completed,E-931-S50RRLQ,50FT REFLECTIVE PHOTOBEAM W/ LARGE REFLECTOR,1,03A22,Defective,DOA/Did not turn on,OUT OF WARRANTY,03A22,Defective,Delay in trigger even when potentiometer is turned to low.,Replace,,
+2505029,AVX Tech Warehouse,warehouse@avx-tech.com,Completed,SD-997A-GBQ,"ELECTRIC DEADBOLT, FAIL SECURE, 12/24VDC",1,05A24,Defective,Pin is getting stuck,UNDER WARRANTY,05A24,Tested to be working,"Unit was tested to be working. deadbolt retract and pops out as normal. 
+There is damage on the deadbolt that can be attributed to the issue. However, this developed from use.",Replace,Asking further questions.,W92
+2505030,AVX Tech Warehouse,warehouse@avx-tech.com,Completed,PC-U1820-PULQ,"CCTV Power Supply 18 Output, 20A",1,PCU1820072400215,Defective,No power/DOA,UNDER WARRANTY,07A24,Defective,"Unit connected to 120VAC, no power from unit. Defective",Replace,Replace with PC-U1830-PULQ,W92
+2505031,APA Inc,rma@apainc.ca,Completed,SK-1011-SDQ,"INDOOR STAND-ALONE KEYPAD, 1000 USERS, 1 OUTPUT, CLOCK, VISITOR CODES , SMART/DELAYED EGRESS",1,06A23,Defective,2 of the numbers won’t program,OUT OF WARRANTY,06A23,Tested to be working,Unit works,Return,,W90
+2505031,APA Inc,rma@apainc.ca,Completed,SK-2323-SPQ,MULLION KEYPAD WITH PROX,1,06A24,Defective,master code blocked,UNDER WARRANTY,06A24,Tested to be working,"We reset the master code back to default, works",Return,,
+2505031,APA Inc,rma@apainc.ca,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,06A24,Defective,keeps loosing connection,UNDER WARRANTY,06A24,Tested to be working,Works,Return,,W90
+2505031,APA Inc,rma@apainc.ca,Completed,SK-1123-SDQ,"Outdoor Keypad, 2 outputs, 12~24 VAC/VDC, 1100 users",1,03a24,Defective,when the keypad is powered there is no response from the digit keys,OUT OF WARRANTY,03A24,Defective,Keypad turns on but turns off right away.,Issue Credit,we will issue credit on this item but will return the other oones,W92
+2505031,APA Inc,rma@apainc.ca,Completed,SD-927PKC-NEQ,"Indoor No-Touch Sensor with Timer, English",1,07A23,Defective,doesn`t detect the hand,UNDER WARRANTY,07A23,Tested to be working,Unit works,Return,,W90
+2505032,Wesco,Whitney.Green@anixter.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,12A24,Defective,Per customer reason for return details: This unit failed in the field,OUT OF WARRANTY,Due to policy warranty has been voided,Defective,Unit is completely burned,Return,installer error,W92
+2505033,Wesco,Whitney.Green@anixter.com,Completed,SK-2323-SDQ,MULLION KEYPAD WITHOUT PROX,1,12A23,Defective,RMA# 2504024 S/N: N/A--(Please confirm if 2504024 is the correct RMA for this return. Please provide RMA paperwork and labels. ),OUT OF WARRANTY,12A23,Defective,number 9 gets stuck,Issue Credit,,W92
+2505034,ALARMAX,AFLETCHER@ALARMAX.COM,Issued RMA,MVE-AH1E1-42UQ,HDMI Extender with KVM 4K@60Hz Set,1,12A21,Defective,DETERMINED DEEFECTIVE FROM CUSTOMER BY TECH. NEEDS A CREDIT SINCE REPLACEMENT IS UNAVAILABLE,,,,,,,
+2505035,Wesco/Anixter,art.artinjian@anixter.com,Completed,SH-816S-BMQ,4-in-1 Multi-Purpose Siren/Strobe (Siren Only),1,09A24 both the same,Defective,Customer claims both units will not sound. Bought 6 pcs total on PO#62T-576894-03T No replacement needed.,VOIDED WARRANTY,"Chip was burnt, attributed to Overvoltage",Defective,"Burnt, replaced PCB. Works",Issue Credit,,W01
+2505035,Wesco/Anixter,art.artinjian@anixter.com,Completed,SH-816S-BMQ,4-in-1 Multi-Purpose Siren/Strobe (Siren Only),1,,Defective,Defective,UNDER WARRANTY,09A24,Defective,not working due to Defective PCB,Issue Credit,,W01
+2505036,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,06A23,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-B141-PQ
+
+Thank you in advance for your help.
+
+Best Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505036,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,DP-264-M7Q,DP-264 Series Monitor,1,01A24,Defective,"Good morning,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit DP-264-M7Q
+
+Thank you in advance for your help.
+
+Best Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505036,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-931CS22RFCQ,WIRELESS ENTRY ALERT SYSTEM,1,12A22,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-931CS22RFCQ
+
+Thank you in advance for your help.
+
+Best Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505036,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-995A-D3Q,"Weatherproof Door/Gate Strike, Fail-Secure, 12 VAC/VDC",1,03A24,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-995A-D3Q
+
+Thank you in advance for your help.
+
+Best Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505036,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-910RBQ,1 CHRX S/M RL O/P 315 CODEBUM,1,1389034,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-910RBQ
+
+Thank you in advance for your help.
+
+Best Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505037,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-931-S50RRGQ,"50FT REFLECTIVE PHOTOBEAM SENSOR, ETL UL325",1,03A24,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-931-S50RRGQ.
+
+Thank you in advance for your help.
+
+Best Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505037,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-995C-D3Q,No-Cut Electric Door Strike,1,06A24,Defective,"Good afternoon,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-995C-D3Q.
+
+Thank you in advance for your help.
+
+Best Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505037,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-B141-PQ.
+
+Thank you in advance for your help.
+
+Best Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505037,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-931-S33PRGQ,"POLARIZED NIR PHOTOBEAM, 33'', ETL UL325",1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-931-S33PRGQ.
+
+Thank you in advance for your help.
+
+Best Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505037,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-962HL-4A,Entry Type Lever Trim for SD-962AR-36A and SD-962AR-36G Rim-Type Exit Device,1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-962HL-4A.
+
+Thank you in advance for your help.
+
+Best Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505038,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SM-226L-3Q,N.O./N.C. MAGNETIC SWITCH,1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SM-226L-3Q
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505038,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-942FC-1300,1200LB MAGNETIC GATE LOCK,1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-942FC-1300
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505038,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,"Good morning,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-B141-PQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505038,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,"Good morning,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-B141-PQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505038,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-964-S50TB,Multi-Frequency Single Photobeam,1,05A19,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-964-S50TB
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505039,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-942F-1300/L,L-BRACKETS FOR E-942C-1300,1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-942F-1300
+Date Code: N/A
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505039,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SH-816S-SQ/A,"Amber Strobe Light with 1-Tone  plastic square siren & speaker, surface-mount, terminal block",1,07A24,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SH-816S-SQ/A
+Date Code: 07A24
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505039,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-H412,Power Transfer Hinge - 4 wires,1,04A24,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-H412
+Date Code: 04A24
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505039,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-941SA-1200,"1,200lb Maglock",1,,Defective,"Good morning,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-941SA-1200
+Date Code: N/A
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505039,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-995C-D3Q,No-Cut Electric Door Strike,1,07A21,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-995C-D3Q
+Date Code: 07A21
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505040,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,DH-171SQ,"MAGNETIC DOOR HOLDER, FLUSH MOUNT, UL",1,10A24,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit DH-171SQ
+Date Code: 10A24
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505040,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-942FC-1K3SQ,E-942FC-1300 W/ WELDABLE BRCK,1,08A22,Defective,"Good morning,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-942FC-1K3SQ
+Date Code: 08A22
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505040,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-2323-SPQ,MULLION KEYPAD WITH PROX,1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-2323-SPQ
+Date Code: N/A
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505040,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-936-S45RRGQ,"NIR PB, 3'' REFLECT, HOOD, 45', ETL UL325",1,07A24,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-936-S45RRGQ
+Date Code: 07A24
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505040,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,DH-171SQ,"MAGNETIC DOOR HOLDER, FLUSH MOUNT, UL",1,10A24,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit DH-171SQ
+Date Code: 10A24
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505041,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-961A-36,PUSH-TO-EXIT BAR FOR 36IN DOOR,1,,Defective,"Good afternoon,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-961A-36
+Date Code: N/a
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505041,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-991A-D1Q,Mini No-Cut Electric Door Strike,1,10A24,Defective,"Good afternoon,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-991A-D1Q
+Date Code: 10A24
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505041,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-997SMB-AQ,SURFACE-MOUNT BRKT FOR SD-997,1,01A24,Defective,"Good afternoon,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD997SMBAQ	
+Date Code: 01A24	
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505041,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-H412,Power Transfer Hinge - 4 wires,1,,Defective,"Good afternoon,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SDH412	
+Date Code: N/a
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505041,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,NR-P102E-TQ,"1-Port PoE Extender, Indoor",1,,Defective,"Good afternoon,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit NR-P102E-TQ
+Date Code: n/a
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505042,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-2612-SPQ,"Mullion Stand-Alone/Wiegand Keypad with Prox, 1 Output",1,,Defective,"Good afternoon,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-2612-SPQ
+Date Code: N/A
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505042,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-9163-KSQ,"Outdoor No Touch Sensor, Slimline, English",1,04A24,Defective,"Good afternoon,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-9163-KSQ
+Date Code: 04A24
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505042,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,DH-171SQ,"MAGNETIC DOOR HOLDER, FLUSH MOUNT, UL",1,03A24,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit DH-171SQ
+Date Code: 03A24
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505042,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-960-D190Q,"TWIN PHOTOBEAM DETECTOR, 190F",1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-960-D190Q
+Date Code: N/A
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505042,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-936-S45RRGQ,"NIR PB, 3'' REFLECT, HOOD, 45', ETL UL325",1,04A24,Defective,"Good afternoon,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-936-S45RRGQ
+Date Code: 04A24
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505043,EOS Trading Corp,rma.vendors@eostrading.com,Completed,E-941DA-1K2Q,"1,200lb Double-Door Maglock",1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-941DA-1K2Q
+Date Code: N/A
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",NOT APPLICABLE,,Defective,,Discard,,
+2505043,EOS Trading Corp,rma.vendors@eostrading.com,Completed,E-931CS22RRCQ,"ENTRY ALERT SYSTEM, CHIME, 22",1,03A22,Defective,"Good afternoon,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-931CS22RRCQ
+Date Code: 03A22
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",NOT APPLICABLE,,Defective,,Discard,,
+2505043,EOS Trading Corp,rma.vendors@eostrading.com,Completed,E-931-S50RRGQ,"50FT REFLECTIVE PHOTOBEAM SENSOR, ETL UL325",1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-931-S50RRGQ
+Date Code: N/A
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",NOT APPLICABLE,,Defective,,Discard,,
+2505043,EOS Trading Corp,rma.vendors@eostrading.com,Completed,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-B241-PQ
+Date Code: N/A
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",NOT APPLICABLE,,Defective,,Discard,,
+2505043,EOS Trading Corp,rma.vendors@eostrading.com,Completed,SD-991A-D1Q,Mini No-Cut Electric Door Strike,1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-991A-D1Q
+Date Code: N/A
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",NOT APPLICABLE,,Defective,,Discard,,
+2505044,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-7103GC-PTQ,SD-7103GC-PEQ WITH MINI TIMER,1,08A24,Defective,"Good afternoon,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-7103GC-PTQ
+Date Code: 08A24
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505044,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-9163-KSVQ,"Outdoor No Touch Sensor, Slimline, English, Override",1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-9163-KSVQ
+Date Code: N/A
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505044,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-9163-KSVQ,"Outdoor No Touch Sensor, Slimline, English, Override",1,03A24,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-9163-KSVQ
+Date Code: 03A24
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505044,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-B241-PQ
+Date Code: N/A
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505045,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-996C-NUVQ,"Door Strike, Vertical Adjustment, 12/24 VDC/VAC",1,07A24,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-996C-NUVQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505045,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-B241-PQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505045,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SM-4601-LQ,"N.C. Magnetic contact, industrial wide-gap with leads, aluminum",1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SM-4601-L3Q
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505045,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,DH-100A-01SQ,Door Holder Armature Plate for DH-151SQ and DH-171SQ,1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit DH-100A-01SQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505045,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-931ACC-SQ,Additional Plastic-Housing Siren for E-931CS22RRCQ,1,06A23,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-931ACC-SQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505046,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-995C,"ELEC. STRIKE, METAL DR. NO/NC",1,N0424ACMN02895,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-995C
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505046,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-2323-SDQ,MULLION KEYPAD WITHOUT PROX,1,05A24,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-2323-SDQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505046,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-936-S45RRGQ,"NIR PB, 3'' REFLECT, HOOD, 45', ETL UL325",1,,Defective,"The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-936-S45RRGQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505046,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-931CS22RRCQ,"ENTRY ALERT SYSTEM, CHIME, 22",1,,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-931CS22RRCQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505047,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-931-S35RRQ,"NIR PHOTOBEAM, REFLECTIVE, 35",1,,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-931-S35RRQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505047,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,DH-171SQ,"MAGNETIC DOOR HOLDER, FLUSH MOUNT, UL",1,,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit DH-171SQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505047,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-941S-1K2/AP,"Armature Plate for all SECO-LARM 1,200lb Maglocks (indoor & outdoor)",1,,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-941S-1K2
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505047,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-994A-A1SQ,"AC DOOR STRIKE, SYMMETRICAL, 9~16VAC, 12VDC",1,08A24,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-994A-A1SQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505047,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-942FC-1300,1200LB MAGNETIC GATE LOCK,1,,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-942FC-1300
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505048,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-919T1-GBQ,"1-Button Family Transmitter, 315 MHz, Enforcer Logo",1,,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-919T1-GBQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505048,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SD-995A-D3Q,"Weatherproof Door/Gate Strike, Fail-Secure, 12 VAC/VDC",1,07A21,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SD-995A-D3Q
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505048,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-941SA-600,600lb Maglock,1,,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-941SA-600
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505048,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,E-941SA-600,600lb Maglock,1,,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit E-941SA-600
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505048,EOS Trading Corp,rma.vendors@eostrading.com,Issued RMA,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,09A24,Defective,"Hello,
+
+The following item has been returned to our warehouse from our customer as defective. We don’t have more details about the problem with the unit because customer returned the unit as defective and we don’t have anyone with expertise to test this unit.
+
+Can you please provide RMA to inspect the unit and provide credit / repair or replacement unit to us.
+
+Item: 1 unit SK-B141-PQ
+
+Thank you & Regards,
+
+Kamel Dallal
+Logistics Associate
+
+Eos Trading Corp. (dba Sale Stores)
+3910 Pembroke Road
+Pembroke Park, FL 33021, USA
+T 305-652-0442 - F 305-675-6412
+Email: kamel.dallal@eostrading.com",,,,,,,
+2505049,SECURITY EQUIPMENT SUPPLY,RETURNS.MEMPHIS@SESONLINE.COM,Completed,SK-2323-SDQ,MULLION KEYPAD WITHOUT PROX,1,2025,Defective,BUTTONS DO NOT WORK,OUT OF WARRANTY,03A22,Tested to be working,Unit was found to be working. Relay tested properly. Buttons work properly. Need more information on issue.,Replace,,W90
+2505049,SECURITY EQUIPMENT SUPPLY,RETURNS.MEMPHIS@SESONLINE.COM,Completed,SK-1323-SPQ,VANDAL KEYPAD WITH PROX,1,2025,Defective,RELAY STUCK OPEN,OUT OF WARRANTY,03A24,Defective,Relay stays open,Replace,,W92
+2505050,ESC-SUPPLY,jmobley@esc-supply.com,Completed,SD-996C-NUQ,"STRIKE,12/24V,NO/NC,3 PLATES",1,07A24,Defective,Stopped Working,UNDER WARRANTY,07A24,Defective,solenoid is broken/slanted,Repair,Will be repaired and returned,
+2505051,"TEM Systems, Inc.",jlongo@temsystems.com,Issued RMA,E-941SA-1200,"1,200lb Maglock",1,,Defective,Holding power isn't keeping.  We purchased from UHS Hardware on 11/22/2024.,,,,,,,
+2505052,A1 SECURITY SUPPLY,WILL@A1ALARM.COM,Completed,SD-998C-D3AQ,"1/2"""""""" Surface-Mount RIM Strike",1,08/23,Defective,ONLYONE THE LATCHES WOULD RELEASE,VOIDED WARRANTY,"08A23
+Unit has rust",Defective,only one solenoid works,Replace,,W92
+2505053,Made Rite Fence Co,sjump@fencemaderite.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,,Defective,"We purchased the unit on 5/5 and installed it on 5/9. Everything was working correctly. I received a call from the customer on 5/19 that the card reader was not working, all other access options work as they should. I was out there today (5/21) to confirm and to see if we could get it working, I contacted Tech Support and after installing an update the reader would still not read a card, they stated that the card/fob reader was bad and would need replaced.",UNDER WARRANTY,,Defective,Doesnt read card fobs,Replace,,W92
+2505054,Alarmist Security System,dillon@alarmist.net,Issued RMA,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,1,5/21/25,Damaged On Shipping,Keypad does not power up.,,,,,,,
+2505055,Mon équilibre,janie.gagnon@vraidd.ulaval.ca,Issued RMA,E-931ACC-CQ,COUNTER FOR ENTRY ALERT SYSTE,1,,Defective,The counter shifts up numbers for no apparent reasons.,,,,,,,
+2505056,BG Distribution,Nvoyer@bgdistribution.ca,Completed,SK-2323-SPQ,MULLION KEYPAD WITH PROX,1,,Defective,Bad from box,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2505056,BG Distribution,Nvoyer@bgdistribution.ca,Completed,SD-927PKC-NFQ,"Indoor No-Touch Sensor with Timer, French",1,,Defective,Bad out of box,UNDER WARRANTY,,Customer will not return,,Issue Credit,,
+2505057,David Willson,willson.david.l@gmail.com,Completed,DP-266-1C7Q,"Wireless Video Door Phone Kit, Includes Camera and 7",1,06A23,Defective,Was instructed to return the video monitor along with the camera. It is believed that the camera is the device having the problem.,OUT OF WARRANTY,06A23,Defective,Monitor doesnt connect to camera,Replace,Replace with new unit.,W92
+2505058,Broad Point Power Solutions,bleblanc@broadpointps.com,Completed,SK-1123-SQ,"2 O/P, 110-USER OUTDOOR KEYPAD",1,,Defective,Keypad no longer working and the building has power.,UNDER WARRANTY,05A13,Defective,,Replace,replaced with refurbished unit,W92
+2505059,AlarMax Distributors Inc,elouton@alarmax.com,Completed,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,01A25,Defective,unit was installed and then after a few months the unit stop providing power and would not unlock. dealer said it then stopped powering up.,UNDER WARRANTY,01A25,Defective,Doesnt turn on,Replace,,W92
+2505060,Able Locksmiths,mike.ablelock@gmail.com,Completed,SK-B241-PQ,Bluetooth Mullion Keypad with Reader,1,,Defective,Bluetooth stopped working on this keypad after approximately 6 months of use. All other functions are working.,OUT OF WARRANTY,02A23,Tested to be working,"unit works, had to update firmware",Replace,Replaced Unit,W90
+2505061,Southwest Automated Security,tobiemay@aol.com,Completed,E-931-S33PRGQ,"POLARIZED NIR PHOTOBEAM, 33'', ETL UL325",1,08A23,Defective,Defective out of box,OUT OF WARRANTY,08A23,Defective,"no relay trigger, installer error; customer drilled through pcb.",Return,,W92
+2505062,BANNER SOLUTIONS,debi.wade@bannersolutions.com,Issued RMA,SK-1123-SDQ,"Outdoor Keypad, 2 outputs, 12~24 VAC/VDC, 1100 users",1,,Defective,CUSTOMER STATED THAT IS QUIT WORKING,,,,,,,
+2505063,APA Inc,rma@apainc.ca,Completed,SK-2323-SDQ,MULLION KEYPAD WITHOUT PROX,1,,Defective,"EXT keypad 2O 1000U
+Dead",OUT OF WARRANTY,07A24,Defective,Powers on but no LED turns on and no input is detected,Issue Credit,We will issue credit,W92
+2505063,APA Inc,rma@apainc.ca,Completed,SK-2323-SPQ,MULLION KEYPAD WITH PROX,1,,Defective,"key not responding, stuck",OUT OF WARRANTY,07A24,Tested to be working,Unit works as new; wire has been cut short,Return,,W90
+2505064,ESC SUPPLY,jglover@esc-supply.com,Completed,SK-2323-SPQ,MULLION KEYPAD WITH PROX,1,03A24,Defective,CUSTOMER STATES THE PRODUCT IS DRAINING POWER SUPPLY,OUT OF WARRANTY,03A24,Tested to be working,Unit looks new and was tested to be working,Issue Credit,,W01
+2505065,ESC SUPPLY,jglover@esc-supply.com,Completed,SD-9263-KSVQ,"Outdoor No Touch Sensor, Single Gang, English Override",1,10A22,Defective,BAD OUT OF BOX,OUT OF WARRANTY,10A22,Tested to be working,unit works,Issue Credit,,W90
+2505066,Security Options,support@securityoptionsltd.com,Issued RMA,E-922CPQ,"Voice Dialer, 3 Channels",1,09A22,Defective,not powering up,,,,,,,
+2505067,Intermountain Lock & Supply,matt.klepacz@imlss.com,Issued RMA,SK-B141-PQ,Bluetooth Single-Gang Keypad with Reader,1,Not sure but purchased & install,Defective,BUTTONS 3.6.9 & # ALL STOPPED WORKING,UNDER WARRANTY,12A24,Defective,"numbers 2,5,8,0 dont work",Replace,,W92
+2505068,"Radiotronics, INC",service@acek9.com,Completed,E-37TV,3-Zone alarm pager transmitter,1,PIHKK2-08A24,Defective,Upon testing Transmitter will not send Page signal when triggered by input(s),UNDER WARRANTY,08A24,Defective,triggers dont work,Replace,,W92
+2505068,"Radiotronics, INC",service@acek9.com,Completed,E-37RV,VIBRATING RECEIVER FOR E-37EV,1,10A23,Defective,"Receiver does not pair to Transmitter, attempted on multiple different Transmitters",OUT OF WARRANTY,10A23,Defective,Doesn't pair,Replace,,W92
+2505068,"Radiotronics, INC",service@acek9.com,Completed,E-37RV,VIBRATING RECEIVER FOR E-37EV,1,08A24,Defective,Receiver does not vibrate when selector switch is set to vibrate mode,OUT OF WARRANTY,08A24,Defective,triggers randomly,Replace,,W92
+2505069,"Brooker Fence Co., Inc.",office@brookerfenceco.com,Issued RMA,E-946FC-600Q,"600 lb Outdoor Electromagnetic Lock, Face and Surface Mount, UL and CUL",1,,Defective,"Magnet is weak, even with 12v and aligned correctly",,,,,,,

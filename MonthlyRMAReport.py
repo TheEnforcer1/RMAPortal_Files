@@ -26,6 +26,21 @@ for status in unique_statuses:
 
 print(status_count)
 
+Monthly_Report_Columns = [
+        'Model',
+        'Total Qty',
+        'Defective_Return',
+        'Defective_Repair',
+        'Defective_Replace(01)',
+        'Defective_Replace(90)',
+        'Defective_Credit',
+        'Working_Return',
+        'Working_Replace(01)',
+        'Working_Replace(90)',
+        'Working_Credit',
+        'New_Credit',
+        'New_Return']
+
 
 
 
